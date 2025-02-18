@@ -1,0 +1,9 @@
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ASUS\OneDrive\Masaüstü\UdemyProjeler\myApp1\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
